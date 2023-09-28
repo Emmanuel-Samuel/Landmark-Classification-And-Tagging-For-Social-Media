@@ -24,7 +24,7 @@ process end-to-end: performing data preprocessing, designing and
 training CNNs, comparing the accuracy of different CNNs, and deploying 
 an app based on the best trained CNN.
 
-![landmarks-example.png](static_images/landmarks-example.jpg)
+![landmarks-example.png](/landmarks-example.jpg)
 
 Examples from the landmarks dataset - a road in Death Valley, the Brooklyn Bridge, and the Eiffel Tower
 
